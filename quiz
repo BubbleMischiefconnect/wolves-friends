@@ -1,12 +1,537 @@
 [
   {
-    "question": "Сколько волков в среднем живёт в стае?",
-    "options": ["2-3", "5-6", "8-10", "15-20"],
+    "question": "What is the average lifespan of a wild wolf?",
+    "options": ["2-3 years", "4-6 years", "8-10 years", "12-14 years"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which continent has the largest wolf population?",
+    "options": ["Africa", "Asia", "North America", "Europe"],
     "correctIndex": 2
   },
   {
-    "question": "Что является основной пищей волков?",
-    "options": ["Рыба", "Мед", "Мелкие грызуны", "Копытные животные"],
+    "question": "What is the scientific name for the gray wolf?",
+    "options": ["Canis lupus", "Canis latrans", "Canis aureus", "Canis rufus"],
+    "correctIndex": 0
+  },
+  {
+    "question": "How fast can a wolf run at full speed?",
+    "options": ["20-30 mph", "35-40 mph", "45-50 mph", "55-60 mph"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of these is NOT a subspecies of the gray wolf?",
+    "options": ["Arctic wolf", "Mexican wolf", "Red wolf", "African wolf"],
+    "correctIndex": 3
+  },
+  {
+    "question": "How do wolves communicate over long distances?",
+    "options": ["Purring", "Howling", "Chirping", "Growling"],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the dominant male in a wolf pack called?",
+    "options": ["Alpha", "Beta", "Omega", "Gamma"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which sense is most highly developed in wolves?",
+    "options": ["Sight", "Hearing", "Smell", "Taste"],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the gestation period for a female wolf?",
+    "options": ["30-40 days", "60-63 days", "90-100 days", "120-150 days"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which animal is a wolf's closest relative?",
+    "options": ["Fox", "Coyote", "Domestic dog", "Hyena"],
+    "correctIndex": 2
+  },
+  {
+    "question": "What color are most Arctic wolves?",
+    "options": ["Black", "Gray", "White", "Red"],
+    "correctIndex": 2
+  },
+  {
+    "question": "How much can an adult wolf eat in one meal?",
+    "options": ["1-2 lbs", "5-10 lbs", "15-20 lbs", "25-30 lbs"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of these is a common prey animal for wolves?",
+    "options": ["Elephant", "Deer", "Kangaroo", "Penguin"],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is a group of wolves called?",
+    "options": ["Herd", "Pack", "Flock", "Pride"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which country has the highest wolf population?",
+    "options": ["Canada", "Russia", "USA", "Germany"],
+    "correctIndex": 1
+  },
+  {
+    "question": "How far can a wolf's howl be heard?",
+    "options": ["1 mile", "5 miles", "10 miles", "20 miles"],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the main threat to wolf populations today?",
+    "options": ["Disease", "Climate change", "Human hunting", "Lack of prey"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of these is NOT a wolf behavior?",
+    "options": ["Hunting in packs", "Marking territory", "Climbing trees", "Howling"],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is a wolf's top speed compared to a human?",
+    "options": ["Same as a human", "Slightly faster", "Twice as fast", "Three times as fast"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which ancient civilization revered wolves in mythology?",
+    "options": ["Egyptian", "Roman", "Greek", "All of the above"],
+    "correctIndex": 3
+  },
+  {
+    "question": "What percentage of wolf hunts are successful?",
+    "options": ["10-20%", "30-40%", "50-60%", "70-80%"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which U.S. state has the most wolves?",
+    "options": ["Texas", "Alaska", "California", "Florida"],
+    "correctIndex": 1
+  },
+  {
+    "question": "How many teeth does an adult wolf have?",
+    "options": ["28", "32", "42", "50"],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the smallest wolf subspecies?",
+    "options": ["Arctic wolf", "Arabian wolf", "Timber wolf", "Tundra wolf"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of these animals is NOT a natural predator of wolves?",
+    "options": ["Bear", "Mountain lion", "Eagle", "Tiger"],
+    "correctIndex": 2
+  },
+  {
+    "question": "How do wolves establish hierarchy in a pack?",
+    "options": ["Voting", "Fighting", "Body language", "All of the above"],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the average weight of an adult male gray wolf?",
+    "options": ["40-60 lbs", "70-110 lbs", "120-150 lbs", "160-200 lbs"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which wolf species is known for its reddish fur?",
+    "options": ["Gray wolf", "Red wolf", "Arctic wolf", "Ethiopian wolf"],
+    "correctIndex": 1
+  },
+  {
+    "question": "How many pups are usually in a wolf litter?",
+    "options": ["1-2", "4-6", "8-10", "12-14"],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the rarest wolf subspecies?",
+    "options": ["Mexican wolf", "Red wolf", "Arctic wolf", "Eurasian wolf"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of these is NOT a wolf vocalization?",
+    "options": ["Bark", "Whimper", "Roar", "Growl"],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the largest wolf subspecies?",
+    "options": ["Arabian wolf", "Mackenzie Valley wolf", "Indian wolf", "Ethiopian wolf"],
+    "correctIndex": 1
+  },
+  {
+    "question": "How do wolves cool down in hot weather?",
+    "options": ["Sweating", "Panting", "Swimming", "Digging burrows"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which famous wolf was reintroduced to Yellowstone National Park?",
+    "options": ["Mexican wolf", "Red wolf", "Gray wolf", "Arctic wolf"],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is a wolf's strongest sense?",
+    "options": ["Sight", "Hearing", "Smell", "Taste"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of these is a wolf's natural habitat?",
+    "options": ["Desert", "Rainforest", "Tundra", "All of the above"],
+    "correctIndex": 2
+  },
+  {
+    "question": "How long can a wolf go without eating?",
+    "options": ["1 day", "1 week", "2 weeks", "1 month"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which wolf is known for living in the Ethiopian highlands?",
+    "options": ["Ethiopian wolf", "Arabian wolf", "Indian wolf", "Tundra wolf"],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the main reason wolves howl?",
+    "options": ["To scare prey", "To communicate", "To show dominance", "To mark territory"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of these animals is a wolf's closest competitor?",
+    "options": ["Fox", "Coyote", "Bear", "Lynx"],
+    "correctIndex": 1
+  },
+  {
+    "question": "How many subspecies of gray wolf are recognized?",
+    "options": ["5", "15", "30", "50"],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the biggest threat to wolf cubs?",
+    "options": ["Eagles", "Bears", "Other wolves", "Disease"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which wolf is the most social?",
+    "options": ["Gray wolf", "Red wolf", "Ethiopian wolf", "All are equally social"],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the average body temperature of a wolf?",
+    "options": ["98°F (37°C)", "100°F (38°C)", "102°F (39°C)", "104°F (40°C)"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of these is NOT a wolf adaptation?",
+    "options": ["Thick fur", "Webbed feet", "Sharp teeth", "Strong legs"],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the most common wolf fur color?",
+    "options": ["Black", "Gray", "White", "Red"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which wolf is known for its small size and desert habitat?",
+    "options": ["Arabian wolf", "Arctic wolf", "Timber wolf", "Tundra wolf"],
+    "correctIndex": 0
+  },
+  {
+    "question": "How many miles can a wolf travel in a day?",
+    "options": ["5-10 miles", "20-30 miles", "50-60 miles", "100+ miles"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of these is a wolf's primary hunting strategy?",
+    "options": ["Ambush", "Chase", "Trap", "Scavenge"],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the rarest wolf color?",
+    "options": ["Black", "White", "Red", "Blue"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which wolf is most likely to be solitary?",
+    "options": ["Gray wolf", "Red wolf", "Ethiopian wolf", "Arctic wolf"],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the main reason wolves are apex predators?",
+    "options": ["Speed", "Strength", "Intelligence", "Teamwork"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of these is NOT a wolf subspecies?",
+    "options": ["Eastern wolf", "Himalayan wolf", "African wolf", "Australian wolf"],
+    "correctIndex": 3
+  },
+  {
+    "question": "How do wolves greet each other?",
+    "options": ["Nuzzling", "Licking", "Tail wagging", "All of the above"],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the average height of a wolf at the shoulder?",
+    "options": ["1 foot", "2 feet", "3 feet", "4 feet"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which wolf is known for living in the Himalayas?",
+    "options": ["Himalayan wolf", "Indian wolf", "Tibetan wolf", "All of the above"],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the largest prey a wolf can take down?",
+    "options": ["Rabbit", "Deer", "Moose", "Elephant"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of these is a wolf's natural behavior?",
+    "options": ["Digging burrows", "Climbing trees", "Swimming", "Flying"],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the rarest wolf in North America?",
+    "options": ["Gray wolf", "Red wolf", "Arctic wolf", "Mexican wolf"],
+    "correctIndex": 1
+  },
+  {
+    "question": "How do wolves mark their territory?",
+    "options": ["Urine", "Scratching trees", "Howling", "All of the above"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which wolf is the fastest?",
+    "options": ["Gray wolf", "Red wolf", "Ethiopian wolf", "Arctic wolf"],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the main difference between wolves and dogs?",
+    "options": ["Size", "Behavior", "DNA", "All of the above"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which wolf is most endangered?",
+    "options": ["Gray wolf", "Red wolf", "Arctic wolf", "Ethiopian wolf"],
+    "correctIndex": 1
+  },
+  {
+    "question": "How do wolves show submission?",
+    "options": ["Rolling over", "Lowering tail", "Licking muzzle", "All of the above"],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the average weight of a female wolf?",
+    "options": ["40-60 lbs", "60-80 lbs", "80-100 lbs", "100-120 lbs"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which wolf is known for its black fur?",
+    "options": ["Gray wolf", "Red wolf", "Arctic wolf", "None of the above"],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the main reason wolves are feared by humans?",
+    "options": ["Attacks on livestock", "Mythology", "Aggressive behavior", "All of the above"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which wolf is the most adaptable?",
+    "options": ["Gray wolf", "Red wolf", "Ethiopian wolf", "Arctic wolf"],
+    "correctIndex": 0
+  },
+  {
+    "question": "How do wolves hunt large prey?",
+    "options": ["Solo ambush", "Team chase", "Trapping", "Scavenging"],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the rarest wolf behavior?",
+    "options": ["Howling", "Hunting alone", "Swimming", "Climbing trees"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which wolf is the most aggressive?",
+    "options": ["Gray wolf", "Red wolf", "Ethiopian wolf", "None are naturally aggressive"],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the main reason wolves are important to ecosystems?",
+    "options": ["Control prey populations", "Spread seeds", "Scavenge carcasses", "All of the above"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which wolf is the most solitary?",
+    "options": ["Gray wolf", "Red wolf", "Ethiopian wolf", "Arctic wolf"],
+    "correctIndex": 2
+  },
+  {
+    "question": "How do wolves avoid inbreeding?",
+    "options": ["Dispersing young", "Mating outside the pack", "Both A and B", "Neither"],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the rarest wolf vocalization?",
+    "options": ["Howl", "Bark", "Whine", "Chuff"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which wolf is the most endangered in the U.S.?",
+    "options": ["Gray wolf", "Red wolf", "Mexican wolf", "Arctic wolf"],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the main reason wolves were hunted to near extinction?",
+    "options": ["Fur trade", "Fear of attacks", "Competition with livestock", "All of the above"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which wolf is the most studied?",
+    "options": ["Gray wolf", "Red wolf", "Ethiopian wolf", "Arctic wolf"],
+    "correctIndex": 0
+  },
+  {
+    "question": "How do wolves show dominance?",
+    "options": ["Standing tall", "Baring teeth", "Staring", "All of the above"],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the rarest wolf subspecies in Europe?",
+    "options": ["Italian wolf", "Iberian wolf", "Eurasian wolf", "Scandinavian wolf"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which wolf is the most territorial?",
+    "options": ["Gray wolf", "Red wolf", "Ethiopian wolf", "All are territorial"],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the main reason wolves are reintroduced to some areas?",
+    "options": ["Tourism", "Ecological balance", "Hunting", "All of the above"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which wolf is the most vocal?",
+    "options": ["Gray wolf", "Red wolf", "Ethiopian wolf", "All are equally vocal"],
+    "correctIndex": 0
+  },
+  {
+    "question": "How do wolves adapt to winter?",
+    "options": ["Hibernation", "Thicker fur", "Migrating south", "Storing food"],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the rarest wolf in Africa?",
+    "options": ["Ethiopian wolf", "African wolf", "Golden wolf", "None of the above"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which wolf is the most intelligent?",
+    "options": ["Gray wolf", "Red wolf", "Ethiopian wolf", "All are equally intelligent"],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the main reason wolves are protected in many countries?",
+    "options": ["Cultural significance", "Ecological role", "Tourism value", "All of the above"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which wolf is the most elusive?",
+    "options": ["Gray wolf", "Red wolf", "Ethiopian wolf", "Arctic wolf"],
+    "correctIndex": 1
+  },
+  {
+    "question": "How do wolves communicate with their tails?",
+    "options": ["Wagging", "Holding high", "Tucking between legs", "All of the above"],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the rarest wolf in Asia?",
+    "options": ["Himalayan wolf", "Indian wolf", "Tibetan wolf", "Arabian wolf"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which wolf is the most social with humans?",
+    "options": ["Gray wolf", "Red wolf", "Ethiopian wolf", "None are social with humans"],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the main reason wolves avoid humans?",
+    "options": ["Fear", "Lack of food", "Territorial behavior", "All of the above"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which wolf is the most endangered worldwide?",
+    "options": ["Gray wolf", "Red wolf", "Ethiopian wolf", "Mexican wolf"],
+    "correctIndex": 1
+  },
+  {
+    "question": "How do wolves play?",
+    "options": ["Chasing", "Wrestling", "Mock fighting", "All of the above"],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the rarest wolf in Europe?",
+    "options": ["Italian wolf", "Iberian wolf", "Eurasian wolf", "Scandinavian wolf"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which wolf is the most aggressive toward other wolves?",
+    "options": ["Gray wolf", "Red wolf", "Ethiopian wolf", "None are naturally aggressive"],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the main reason wolves are apex predators?",
+    "options": ["Speed", "Strength", "Intelligence", "Teamwork"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which wolf is the most studied in captivity?",
+    "options": ["Gray wolf", "Red wolf", "Ethiopian wolf", "Arctic wolf"],
+    "correctIndex": 0
+  },
+  {
+    "question": "How do wolves show affection?",
+    "options": ["Licking", "Nuzzling", "Tail wagging", "All of the above"],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the rarest wolf in North America?",
+    "options": ["Gray wolf", "Red wolf", "Arctic wolf", "Mexican wolf"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which wolf is the most adaptable to human environments?",
+    "options": ["Gray wolf", "Red wolf", "Ethiopian wolf", "None adapt well"],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the main reason wolves are important to Native American culture?",
+    "options": ["Hunting partner", "Spiritual symbol", "Mythology", "All of the above"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which wolf is the most vocal in communication?",
+    "options": ["Gray wolf", "Red wolf", "Ethiopian wolf", "All are equally vocal"],
+    "correctIndex": 0
+  },
+  {
+    "question": "How do wolves establish dominance in a pack?",
+    "options": ["Fighting", "Body language", "Vocalizations", "All of the above"],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the rarest wolf in Africa?",
+    "options": ["Ethiopian wolf", "African wolf", "Golden wolf", "None of the above"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which wolf is the most endangered in Europe?",
+    "options": ["Italian wolf", "Iberian wolf", "Eurasian wolf", "Scandinavian wolf"],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the main reason wolves avoid domestic dogs?",
+    "options": ["Disease risk", "Competition", "Fear", "All of the above"],
     "correctIndex": 3
   }
 ]
